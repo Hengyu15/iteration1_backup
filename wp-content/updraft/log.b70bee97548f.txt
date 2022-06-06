@@ -1,0 +1,585 @@
+0000.001 (0) Opened log file at time: Sat, 28 May 2022 06:06:43 +0000 on https://watergrandpaiteration1.tk
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.11 WP: 5.9.3 PHP: 7.4.28 (fpm-fcgi, Linux ip-172-26-28-62 4.19.0-20-cloud-amd64 #1 SMP Debian 4.19.235-1 (2022-03-17) x86_64) MySQL: 10.3.34-MariaDB (max packet size=16777216) WPLANG: zh_CN Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 24.1M | 6M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.008 (0) Free space on disk containing Updraft's temporary directory: 15320.3 MB
+0000.013 (0) Deleting old log file: log.be52ae57748a.txt
+0000.016 (0) Deleting old log file: log.10af5802a306.txt
+0000.016 (0) Deleting old log file: log.084852639b7d.txt
+0000.018 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.025 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.033 (0) Set semaphore last lock (fd) time to 2022-05-28 06:06:43
+0000.034 (0) Semaphore lock (fd) complete
+0000.042 (0) Backup run: resumption=0, nonce=b70bee97548f, file_nonce=b70bee97548f begun at=1653718003 (0s ago), job type=backup
+0000.046 (0) Scheduling a resumption (1) after 300 seconds (1653718303) in case this run gets aborted
+0000.081 (0) Checking if we have a zip executable available
+0000.084 (0) Testing: /usr/bin/zip
+0000.089 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.092 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.094 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.095 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.098 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.101 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.104 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.106 (0) Working binary zip found: /usr/bin/zip
+0000.110 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.111 (0) Creation of backups of directories: beginning
+0000.115 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.277 (0) Total entities for the zip file: 5845 directories, 21859 files (0 skipped as non-modified), 300.9 MB
+0003.284 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0003.462 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: size is now: 1.40 MB
+0003.467 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 100 files added (on-disk size: 1442.8 KB)
+0003.469 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 200 files added (on-disk size: 1442.8 KB)
+0003.472 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 300 files added (on-disk size: 1442.8 KB)
+0003.476 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 400 files added (on-disk size: 1442.8 KB)
+0003.480 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 500 files added (on-disk size: 1442.8 KB)
+0003.484 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 600 files added (on-disk size: 1442.8 KB)
+0003.487 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 700 files added (on-disk size: 1442.8 KB)
+0003.491 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 800 files added (on-disk size: 1442.8 KB)
+0003.493 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 900 files added (on-disk size: 1442.8 KB)
+0003.497 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 1000 files added (on-disk size: 1442.8 KB)
+0003.499 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (7.8 MB, 21859 files batched, 1001 (1002) added so far); re-opening (prior size: 1442.8 KB)
+0004.470 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: size is now: 4.30 MB
+0004.478 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 1100 files added (on-disk size: 4398.2 KB)
+0004.482 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 1200 files added (on-disk size: 4398.2 KB)
+0004.485 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 1300 files added (on-disk size: 4398.2 KB)
+0004.489 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 1400 files added (on-disk size: 4398.2 KB)
+0004.493 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 1500 files added (on-disk size: 4398.2 KB)
+0004.498 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 1600 files added (on-disk size: 4398.2 KB)
+0004.502 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 1700 files added (on-disk size: 4398.2 KB)
+0004.506 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 1800 files added (on-disk size: 4398.2 KB)
+0004.510 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 1900 files added (on-disk size: 4398.2 KB)
+0004.514 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 2000 files added (on-disk size: 4398.2 KB)
+0004.517 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (18.8 MB, 21859 files batched, 1001 (2003) added so far); re-opening (prior size: 4398.2 KB)
+0005.875 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: size is now: 10.50 MB
+0005.881 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 2100 files added (on-disk size: 10740.8 KB)
+0005.884 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 2200 files added (on-disk size: 10740.8 KB)
+0005.888 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 2300 files added (on-disk size: 10740.8 KB)
+0005.892 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 2400 files added (on-disk size: 10740.8 KB)
+0005.895 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 2500 files added (on-disk size: 10740.8 KB)
+0005.899 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 2600 files added (on-disk size: 10740.8 KB)
+0005.901 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 2700 files added (on-disk size: 10740.8 KB)
+0005.905 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 2800 files added (on-disk size: 10740.8 KB)
+0005.909 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 2900 files added (on-disk size: 10740.8 KB)
+0005.912 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 3000 files added (on-disk size: 10740.8 KB)
+0005.915 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (16.5 MB, 21859 files batched, 1001 (3004) added so far); re-opening (prior size: 10740.8 KB)
+0007.092 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: size is now: 16.40 MB
+0007.099 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 3100 files added (on-disk size: 16822.9 KB)
+0007.103 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 3200 files added (on-disk size: 16822.9 KB)
+0007.105 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 3300 files added (on-disk size: 16822.9 KB)
+0007.108 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 3400 files added (on-disk size: 16822.9 KB)
+0007.112 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 3500 files added (on-disk size: 16822.9 KB)
+0007.116 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 3600 files added (on-disk size: 16822.9 KB)
+0007.119 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 3700 files added (on-disk size: 16822.9 KB)
+0007.121 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 3800 files added (on-disk size: 16822.9 KB)
+0007.124 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 3900 files added (on-disk size: 16822.9 KB)
+0007.128 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 4000 files added (on-disk size: 16822.9 KB)
+0007.130 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (18 MB, 21859 files batched, 1001 (4005) added so far); re-opening (prior size: 16822.9 KB)
+0008.620 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: size is now: 22.00 MB
+0008.628 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 4100 files added (on-disk size: 22505.6 KB)
+0008.632 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 4200 files added (on-disk size: 22505.6 KB)
+0008.635 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 4300 files added (on-disk size: 22505.6 KB)
+0008.639 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 4400 files added (on-disk size: 22505.6 KB)
+0008.641 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 4500 files added (on-disk size: 22505.6 KB)
+0008.645 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 4600 files added (on-disk size: 22505.6 KB)
+0008.649 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 4700 files added (on-disk size: 22505.6 KB)
+0008.653 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 4800 files added (on-disk size: 22505.6 KB)
+0008.657 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 4900 files added (on-disk size: 22505.6 KB)
+0008.661 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 5000 files added (on-disk size: 22505.6 KB)
+0008.664 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (19 MB, 21859 files batched, 1001 (5006) added so far); re-opening (prior size: 22505.6 KB)
+0009.996 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: size is now: 29.70 MB
+0010.003 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 5100 files added (on-disk size: 30390 KB)
+0010.007 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 5200 files added (on-disk size: 30390 KB)
+0010.009 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 5300 files added (on-disk size: 30390 KB)
+0010.013 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 5400 files added (on-disk size: 30390 KB)
+0010.017 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 5500 files added (on-disk size: 30390 KB)
+0010.021 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 5600 files added (on-disk size: 30390 KB)
+0010.025 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 5700 files added (on-disk size: 30390 KB)
+0010.029 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 5800 files added (on-disk size: 30390 KB)
+0010.032 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 5900 files added (on-disk size: 30390 KB)
+0010.036 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 6000 files added (on-disk size: 30390 KB)
+0010.038 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (10.2 MB, 21859 files batched, 1001 (6007) added so far); re-opening (prior size: 30390 KB)
+0011.057 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 6100 files added (on-disk size: 32043.8 KB)
+0011.062 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 6200 files added (on-disk size: 32043.8 KB)
+0011.066 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 6300 files added (on-disk size: 32043.8 KB)
+0011.070 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 6400 files added (on-disk size: 32043.8 KB)
+0011.074 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 6500 files added (on-disk size: 32043.8 KB)
+0011.079 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 6600 files added (on-disk size: 32043.8 KB)
+0011.083 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 6700 files added (on-disk size: 32043.8 KB)
+0011.086 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 6800 files added (on-disk size: 32043.8 KB)
+0011.090 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 6900 files added (on-disk size: 32043.8 KB)
+0011.094 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 7000 files added (on-disk size: 32043.8 KB)
+0011.097 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (10.8 MB, 21859 files batched, 1001 (7008) added so far); re-opening (prior size: 32043.8 KB)
+0012.168 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 7100 files added (on-disk size: 33590.9 KB)
+0012.172 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 7200 files added (on-disk size: 33590.9 KB)
+0012.175 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 7300 files added (on-disk size: 33590.9 KB)
+0012.177 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 7400 files added (on-disk size: 33590.9 KB)
+0012.180 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 7500 files added (on-disk size: 33590.9 KB)
+0012.184 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 7600 files added (on-disk size: 33590.9 KB)
+0012.188 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 7700 files added (on-disk size: 33590.9 KB)
+0012.192 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 7800 files added (on-disk size: 33590.9 KB)
+0012.196 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 7900 files added (on-disk size: 33590.9 KB)
+0012.200 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 8000 files added (on-disk size: 33590.9 KB)
+0012.202 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (3.5 MB, 21859 files batched, 1001 (8009) added so far); re-opening (prior size: 33590.9 KB)
+0013.045 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 8100 files added (on-disk size: 34872 KB)
+0013.049 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 8200 files added (on-disk size: 34872 KB)
+0013.052 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 8300 files added (on-disk size: 34872 KB)
+0013.056 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 8400 files added (on-disk size: 34872 KB)
+0013.061 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 8500 files added (on-disk size: 34872 KB)
+0013.066 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 8600 files added (on-disk size: 34872 KB)
+0013.069 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 8700 files added (on-disk size: 34872 KB)
+0013.073 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 8800 files added (on-disk size: 34872 KB)
+0013.077 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 8900 files added (on-disk size: 34872 KB)
+0013.081 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 9000 files added (on-disk size: 34872 KB)
+0013.084 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (8.2 MB, 21859 files batched, 1001 (9010) added so far); re-opening (prior size: 34872 KB)
+0014.146 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 9100 files added (on-disk size: 37305.8 KB)
+0014.149 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 9200 files added (on-disk size: 37305.8 KB)
+0014.153 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 9300 files added (on-disk size: 37305.8 KB)
+0014.157 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 9400 files added (on-disk size: 37305.8 KB)
+0014.162 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 9500 files added (on-disk size: 37305.8 KB)
+0014.167 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 9600 files added (on-disk size: 37305.8 KB)
+0014.172 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 9700 files added (on-disk size: 37305.8 KB)
+0014.178 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 9800 files added (on-disk size: 37305.8 KB)
+0014.185 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 9900 files added (on-disk size: 37305.8 KB)
+0014.188 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 10000 files added (on-disk size: 37305.8 KB)
+0014.191 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (7.1 MB, 21859 files batched, 1001 (10011) added so far); re-opening (prior size: 37305.8 KB)
+0015.245 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 10100 files added (on-disk size: 39353 KB)
+0015.263 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 10200 files added (on-disk size: 39353 KB)
+0015.267 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 10300 files added (on-disk size: 39353 KB)
+0015.271 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 10400 files added (on-disk size: 39353 KB)
+0015.275 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 10500 files added (on-disk size: 39353 KB)
+0015.278 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 10600 files added (on-disk size: 39353 KB)
+0015.282 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 10700 files added (on-disk size: 39353 KB)
+0015.287 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 10800 files added (on-disk size: 39353 KB)
+0015.293 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 10900 files added (on-disk size: 39353 KB)
+0015.297 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 11000 files added (on-disk size: 39353 KB)
+0015.299 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (22.7 MB, 21859 files batched, 1001 (11012) added so far); re-opening (prior size: 39353 KB)
+0016.859 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: size is now: 46.90 MB
+0016.865 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 11100 files added (on-disk size: 48070.6 KB)
+0016.868 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 11200 files added (on-disk size: 48070.6 KB)
+0016.872 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 11300 files added (on-disk size: 48070.6 KB)
+0016.875 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 11400 files added (on-disk size: 48070.6 KB)
+0016.877 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 11500 files added (on-disk size: 48070.6 KB)
+0016.881 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 11600 files added (on-disk size: 48070.6 KB)
+0016.886 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 11700 files added (on-disk size: 48070.6 KB)
+0016.890 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 11800 files added (on-disk size: 48070.6 KB)
+0016.894 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 11900 files added (on-disk size: 48070.6 KB)
+0016.897 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 12000 files added (on-disk size: 48070.6 KB)
+0016.900 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (7.1 MB, 21859 files batched, 1001 (12013) added so far); re-opening (prior size: 48070.6 KB)
+0017.928 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 12100 files added (on-disk size: 50249.6 KB)
+0017.932 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 12200 files added (on-disk size: 50249.6 KB)
+0017.935 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 12300 files added (on-disk size: 50249.6 KB)
+0017.940 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 12400 files added (on-disk size: 50249.6 KB)
+0017.944 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 12500 files added (on-disk size: 50249.6 KB)
+0017.948 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 12600 files added (on-disk size: 50249.6 KB)
+0017.951 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 12700 files added (on-disk size: 50249.6 KB)
+0017.955 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 12800 files added (on-disk size: 50249.6 KB)
+0017.959 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 12900 files added (on-disk size: 50249.6 KB)
+0017.963 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 13000 files added (on-disk size: 50249.6 KB)
+0017.966 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (17.2 MB, 21859 files batched, 1001 (13014) added so far); re-opening (prior size: 50249.6 KB)
+0019.166 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 13100 files added (on-disk size: 52421.2 KB)
+0019.171 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 13200 files added (on-disk size: 52421.2 KB)
+0019.175 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 13300 files added (on-disk size: 52421.2 KB)
+0019.179 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 13400 files added (on-disk size: 52421.2 KB)
+0019.183 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 13500 files added (on-disk size: 52421.2 KB)
+0019.188 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 13600 files added (on-disk size: 52421.2 KB)
+0019.194 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 13700 files added (on-disk size: 52421.2 KB)
+0019.198 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 13800 files added (on-disk size: 52421.2 KB)
+0019.202 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 13900 files added (on-disk size: 52421.2 KB)
+0019.205 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 14000 files added (on-disk size: 52421.2 KB)
+0019.207 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.1 MB, 21859 files batched, 990 (14004) added so far); re-opening (prior size: 52421.2 KB)
+0021.028 (0) A useful amount of data was added after this amount of zip processing: 2.2 s (normalised: 2.2 s, rate: 11849.8 KB/s)
+0021.032 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.1651639938354, normalised_time=2.1603697011047, max_time=21.030205965042, data points known=1, old_max_bytes=26214400, new_max_bytes=153111080)
+0021.040 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 14100 files added (on-disk size: 60917.9 KB)
+0021.047 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 14200 files added (on-disk size: 60917.9 KB)
+0021.053 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 14300 files added (on-disk size: 60917.9 KB)
+0021.057 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 14400 files added (on-disk size: 60917.9 KB)
+0021.062 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 14500 files added (on-disk size: 60917.9 KB)
+0021.066 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 14600 files added (on-disk size: 60917.9 KB)
+0021.069 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 14700 files added (on-disk size: 60917.9 KB)
+0021.073 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 14800 files added (on-disk size: 60917.9 KB)
+0021.077 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 14900 files added (on-disk size: 60917.9 KB)
+0021.080 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 15000 files added (on-disk size: 60917.9 KB)
+0021.083 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (10.9 MB, 21859 files batched, 1001 (15005) added so far); re-opening (prior size: 60917.9 KB)
+0022.530 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 15100 files added (on-disk size: 63969.9 KB)
+0022.538 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 15200 files added (on-disk size: 63969.9 KB)
+0022.550 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 15300 files added (on-disk size: 63969.9 KB)
+0022.558 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 15400 files added (on-disk size: 63969.9 KB)
+0022.568 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 15500 files added (on-disk size: 63969.9 KB)
+0022.577 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 15600 files added (on-disk size: 63969.9 KB)
+0022.584 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 15700 files added (on-disk size: 63969.9 KB)
+0022.593 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 15800 files added (on-disk size: 63969.9 KB)
+0022.605 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 15900 files added (on-disk size: 63969.9 KB)
+0022.613 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 16000 files added (on-disk size: 63969.9 KB)
+0022.616 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (6.1 MB, 21859 files batched, 1001 (16006) added so far); re-opening (prior size: 63969.9 KB)
+0023.812 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 16100 files added (on-disk size: 66372.4 KB)
+0023.819 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 16200 files added (on-disk size: 66372.4 KB)
+0023.823 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 16300 files added (on-disk size: 66372.4 KB)
+0023.828 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 16400 files added (on-disk size: 66372.4 KB)
+0023.838 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 16500 files added (on-disk size: 66372.4 KB)
+0023.853 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 16600 files added (on-disk size: 66372.4 KB)
+0023.861 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 16700 files added (on-disk size: 66372.4 KB)
+0023.873 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 16800 files added (on-disk size: 66372.4 KB)
+0023.892 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 16900 files added (on-disk size: 66372.4 KB)
+0023.914 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 17000 files added (on-disk size: 66372.4 KB)
+0023.917 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (22.9 MB, 21859 files batched, 1001 (17007) added so far); re-opening (prior size: 66372.4 KB)
+0025.712 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 17100 files added (on-disk size: 71608.2 KB)
+0025.722 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 17200 files added (on-disk size: 71608.2 KB)
+0025.739 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 17300 files added (on-disk size: 71608.2 KB)
+0025.754 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 17400 files added (on-disk size: 71608.2 KB)
+0025.762 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 17500 files added (on-disk size: 71608.2 KB)
+0025.770 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 17600 files added (on-disk size: 71608.2 KB)
+0025.776 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 17700 files added (on-disk size: 71608.2 KB)
+0025.786 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 17800 files added (on-disk size: 71608.2 KB)
+0025.795 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 17900 files added (on-disk size: 71608.2 KB)
+0025.802 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 18000 files added (on-disk size: 71608.2 KB)
+0025.805 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (29.3 MB, 21859 files batched, 1001 (18008) added so far); re-opening (prior size: 71608.2 KB)
+0028.277 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 18100 files added (on-disk size: 79701.7 KB)
+0028.293 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 18200 files added (on-disk size: 79701.7 KB)
+0028.303 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 18300 files added (on-disk size: 79701.7 KB)
+0028.308 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 18400 files added (on-disk size: 79701.7 KB)
+0028.315 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 18500 files added (on-disk size: 79701.7 KB)
+0028.324 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 18600 files added (on-disk size: 79701.7 KB)
+0028.331 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 18700 files added (on-disk size: 79701.7 KB)
+0028.336 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 18800 files added (on-disk size: 79701.7 KB)
+0028.341 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 18900 files added (on-disk size: 79701.7 KB)
+0028.345 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 19000 files added (on-disk size: 79701.7 KB)
+0028.348 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (12.8 MB, 21859 files batched, 1001 (19009) added so far); re-opening (prior size: 79701.7 KB)
+0029.829 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 19100 files added (on-disk size: 88085 KB)
+0029.835 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 19200 files added (on-disk size: 88085 KB)
+0029.840 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 19300 files added (on-disk size: 88085 KB)
+0029.845 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 19400 files added (on-disk size: 88085 KB)
+0029.851 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 19500 files added (on-disk size: 88085 KB)
+0029.856 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 19600 files added (on-disk size: 88085 KB)
+0029.872 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 19700 files added (on-disk size: 88085 KB)
+0029.877 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 19800 files added (on-disk size: 88085 KB)
+0029.887 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 19900 files added (on-disk size: 88085 KB)
+0029.898 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 20000 files added (on-disk size: 88085 KB)
+0029.902 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (8.9 MB, 21859 files batched, 1001 (20010) added so far); re-opening (prior size: 88085 KB)
+0031.582 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 20100 files added (on-disk size: 91055.4 KB)
+0031.608 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 20200 files added (on-disk size: 91055.4 KB)
+0031.622 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 20300 files added (on-disk size: 91055.4 KB)
+0031.632 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 20400 files added (on-disk size: 91055.4 KB)
+0031.648 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 20500 files added (on-disk size: 91055.4 KB)
+0031.658 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 20600 files added (on-disk size: 91055.4 KB)
+0031.672 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 20700 files added (on-disk size: 91055.4 KB)
+0031.686 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 20800 files added (on-disk size: 91055.4 KB)
+0031.696 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 20900 files added (on-disk size: 91055.4 KB)
+0031.707 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 21000 files added (on-disk size: 91055.4 KB)
+0031.711 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (11.2 MB, 21859 files batched, 1001 (21011) added so far); re-opening (prior size: 91055.4 KB)
+0033.433 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 21100 files added (on-disk size: 96627.8 KB)
+0033.442 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 21200 files added (on-disk size: 96627.8 KB)
+0033.456 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 21300 files added (on-disk size: 96627.8 KB)
+0033.467 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 21400 files added (on-disk size: 96627.8 KB)
+0033.477 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 21500 files added (on-disk size: 96627.8 KB)
+0033.482 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 21600 files added (on-disk size: 96627.8 KB)
+0033.491 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 21700 files added (on-disk size: 96627.8 KB)
+0033.503 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.tmp: 21800 files added (on-disk size: 96627.8 KB)
+0035.364 (0) Creating zip file manifest (/opt/bitnami/wordpress/wp-content/updraft/backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.list-temp.tmp)
+0035.408 (0) Successfully created zip file manifest (size: 2042069)
+0036.753 (0) Created plugins zip (0) - 98344.3 KB in 36.6 s (2684.4 KB/s) (sha1: 35504696ef4ae286e0ded697d404d796211ed7f6, sha256: 548cdb9798205df01160f83ebe382f60f5408c145b9b2c577c3251cb057fa7b8)
+0036.759 (0) Beginning creation of dump of themes (split every: 400 MB)
+0037.021 (0) Total entities for the zip file: 463 directories, 1539 files (0 skipped as non-modified), 41.8 MB
+0037.026 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0037.029 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0037.033 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0037.037 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0037.040 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0037.044 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0037.047 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0037.051 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0037.053 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0037.056 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0037.059 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (34.5 MB, 1539 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0039.253 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.tmp: size is now: 16.00 MB
+0039.261 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.tmp: 1100 files added (on-disk size: 16351.9 KB)
+0039.265 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.tmp: 1200 files added (on-disk size: 16351.9 KB)
+0039.269 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.tmp: 1300 files added (on-disk size: 16351.9 KB)
+0039.272 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.tmp: 1400 files added (on-disk size: 16351.9 KB)
+0039.276 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.tmp: 1500 files added (on-disk size: 16351.9 KB)
+0039.812 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.tmp: size is now: 19.90 MB
+0039.834 (0) Creating zip file manifest (/opt/bitnami/wordpress/wp-content/updraft/backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.list-temp.tmp)
+0039.839 (0) Successfully created zip file manifest (size: 114314)
+0040.062 (0) Created themes zip (0) - 20386 KB in 3.3 s (6185.5 KB/s) (sha1: ea1749a9e812e9e898c164b644e3a8c6a03c56ea, sha256: a76f7041cd822652d63542e0558df91cd962d150e9c1802a07f0ce9886aa0903)
+0040.068 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0040.071 (0) Looking for candidates to backup in: /opt/bitnami/wordpress/wp-content/uploads
+0040.076 (0) finding files: visualizer: adding to list (1)
+0040.079 (0) finding files: astra-sites: adding to list (2)
+0040.082 (0) finding files: 2019: adding to list (3)
+0040.083 (0) finding files: wpforms: adding to list (4)
+0040.086 (0) finding files: 2020: adding to list (5)
+0040.088 (0) finding files: 2022: adding to list (6)
+0040.091 (0) finding files: 2018: adding to list (7)
+0040.092 (0) finding files: 2021: adding to list (8)
+0040.096 (0) finding files: wp-file-manager-pro: adding to list (9)
+0040.098 (0) finding files: elementor: adding to list (10)
+0040.100 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0040.130 (0) Total entities for the zip file: 22 directories, 335 files (0 skipped as non-modified), 62.4 MB
+0040.134 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0040.138 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0040.141 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0040.964 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-uploads.zip.tmp: size is now: 61.00 MB
+0040.974 (0) Creating zip file manifest (/opt/bitnami/wordpress/wp-content/updraft/backup_2022-05-28-0606_water_grandpa_b70bee97548f-uploads.zip.list-temp.tmp)
+0040.977 (0) Successfully created zip file manifest (size: 22603)
+0041.743 (0) Created uploads zip (0) - 62500.4 KB in 1.6 s (38175 KB/s) (sha1: 2fc4e60a472e8102b7f3b12c0365f84c2f76b30e, sha256: 857721ed0ae26a1defdaa02d7381dba0bdb4552e04afb2a0558b1bba26272a41)
+0041.748 (0) Beginning backup of other directories found in the content directory (index: 0)
+0041.751 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0041.754 (0) Looking for candidates to backup in: /opt/bitnami/wordpress/wp-content
+0041.756 (0) finding files: themes: skipping: this is the themes directory
+0041.758 (0) finding files: uploads: skipping: this is the uploads directory
+0041.759 (0) finding files: languages: adding to list (1)
+0041.763 (0) finding files: index.php: adding to list (2)
+0041.766 (0) finding files: updraft: skipping: this is the updraft directory
+0041.767 (0) finding files: plugins: skipping: this is the plugins directory
+0041.770 (0) finding files: upgrade: skipping: excluded by options
+0041.781 (0) Total entities for the zip file: 3 directories, 293 files (0 skipped as non-modified), 6.3 MB
+0041.785 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0041.788 (0) Zip: backup_2022-05-28-0606_water_grandpa_b70bee97548f-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0042.302 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-others.zip.tmp: size is now: 2.00 MB
+0042.310 (0) Creating zip file manifest (/opt/bitnami/wordpress/wp-content/updraft/backup_2022-05-28-0606_water_grandpa_b70bee97548f-others.zip.list-temp.tmp)
+0042.314 (0) Successfully created zip file manifest (size: 23380)
+0042.345 (0) Created others zip (0) - 2016.6 KB in 0.6 s (3520.7 KB/s) (sha1: 5faf7e795a32702f7f95460937608dff74a666b0, sha256: 06fcac3b61fb3bc165486418ff364a31d9b97b59a6cec109290c3abfbe578e3d)
+0042.354 (0) Saving backup status to database (elements: 8)
+0042.365 (0) Beginning creation of database dump (WordPress DB)
+0042.373 (0) SQL compatibility mode is: ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0042.620 (0) Table wp_options: Total expected rows (via COUNT): 380
+0042.623 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0042.779 (0) Table wp_options: Rows added in this batch (next record: 36332): 376 (uncompressed bytes in this segment=5158714) in 0.36 seconds
+0042.791 (0) Table wp_options: finishing file(s) (2, 386.2 KB)
+0042.804 (0) Table wp_users: Total expected rows (via COUNT): 4
+0042.807 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0042.812 (0) Table wp_users: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1835) in 0.01 seconds
+0042.819 (0) Table wp_users: finishing file(s) (2, 0.8 KB)
+0042.835 (0) Table wp_usermeta: Total expected rows (via COUNT): 80
+0042.838 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0042.841 (0) Table wp_usermeta: Rows added in this batch (next record: 80): 80 (uncompressed bytes in this segment=7914) in 0.01 seconds
+0042.850 (0) Table wp_usermeta: finishing file(s) (2, 2.8 KB)
+0042.863 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 22
+0042.864 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0042.869 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 119): 22 (uncompressed bytes in this segment=12409) in 0.01 seconds
+0042.878 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1.4 KB)
+0042.884 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0042.890 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=623) in 0.01 seconds
+0042.896 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0042.902 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 2
+0042.905 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0042.910 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=698) in 0.01 seconds
+0042.915 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0042.922 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 58
+0042.925 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0042.932 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 133): 58 (uncompressed bytes in this segment=5727) in 0.01 seconds
+0042.939 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 1 KB)
+0042.966 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0042.970 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=684) in 0.01 seconds
+0042.978 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0042.987 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0042.990 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0042.995 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2093) in 0.01 seconds
+0043.002 (0) Table wp_comments: finishing file(s) (2, 0.7 KB)
+0043.026 (0) Table wp_links: Total expected rows (via COUNT): 0
+0043.032 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1266) in 0.01 seconds
+0043.040 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0043.280 (0) Table wp_postmeta: Total expected rows (approximate): 5108
+0043.716 (0) Table wp_postmeta: Rows added in this batch (next record: 6291): 5641 (uncompressed bytes in this segment=18898074) in 0.67 seconds
+0043.730 (0) Table wp_postmeta: finishing file(s) (2, 1372.2 KB)
+0043.771 (0) Table wp_posts: Total expected rows (via COUNT): 614
+0043.821 (0) Table wp_posts: Rows added in this batch (next record: 1127): 614 (uncompressed bytes in this segment=2697307) in 0.08 seconds
+0043.831 (0) Table wp_posts: finishing file(s) (2, 68 KB)
+0043.837 (0) Table wp_term_relationships: Total expected rows (approximate): 28
+0043.845 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 29 (uncompressed bytes in this segment=1085) in 0.01 seconds
+0043.853 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0043.863 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 11
+0043.866 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0043.871 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 11): 11 (uncompressed bytes in this segment=1253) in 0.01 seconds
+0043.879 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0043.896 (0) Table wp_termmeta: Total expected rows (via COUNT): 5
+0043.898 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0043.902 (0) Table wp_termmeta: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=927) in 0.01 seconds
+0043.911 (0) Table wp_termmeta: finishing file(s) (2, 0.5 KB)
+0043.918 (0) Table wp_terms: Total expected rows (via COUNT): 11
+0043.921 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0043.924 (0) Table wp_terms: Rows added in this batch (next record: 11): 11 (uncompressed bytes in this segment=1050) in 0.01 seconds
+0043.932 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0043.941 (0) Table wp_aysquiz_answers: Total expected rows (via COUNT): 32
+0043.943 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0043.947 (0) Table wp_aysquiz_answers: Rows added in this batch (next record: 41): 32 (uncompressed bytes in this segment=2840) in 0.01 seconds
+0043.955 (0) Table wp_aysquiz_answers: finishing file(s) (2, 1.1 KB)
+0043.986 (0) Table wp_aysquiz_categories: Total expected rows (via COUNT): 1
+0043.989 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0043.993 (0) Table wp_aysquiz_categories: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=707) in 0.01 seconds
+0043.999 (0) Table wp_aysquiz_categories: finishing file(s) (2, 0.4 KB)
+0044.007 (0) Table wp_aysquiz_questions: Total expected rows (via COUNT): 12
+0044.010 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0044.012 (0) Table wp_aysquiz_questions: Rows added in this batch (next record: 15): 12 (uncompressed bytes in this segment=10812) in 0.01 seconds
+0044.019 (0) Table wp_aysquiz_questions: finishing file(s) (2, 1.2 KB)
+0044.027 (0) Table wp_aysquiz_quizcategories: Total expected rows (via COUNT): 1
+0044.029 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0044.032 (0) Table wp_aysquiz_quizcategories: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=735) in 0.01 seconds
+0044.042 (0) Table wp_aysquiz_quizcategories: finishing file(s) (2, 0.4 KB)
+0044.051 (0) Table wp_aysquiz_quizes: Total expected rows (via COUNT): 2
+0044.054 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0044.055 (0) Table wp_aysquiz_quizes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=13577) in 0.01 seconds
+0044.060 (0) Table wp_aysquiz_quizes: finishing file(s) (2, 2.7 KB)
+0044.070 (0) Table wp_aysquiz_rates: Total expected rows (via COUNT): 0
+0044.075 (0) Table wp_aysquiz_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=920) in 0.01 seconds
+0044.081 (0) Table wp_aysquiz_rates: finishing file(s) (2, 0.4 KB)
+0044.086 (0) Table wp_aysquiz_reports: Total expected rows (via COUNT): 4
+0044.089 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0044.094 (0) Table wp_aysquiz_reports: Rows added in this batch (next record: 33): 4 (uncompressed bytes in this segment=3031) in 0.01 seconds
+0044.103 (0) Table wp_aysquiz_reports: finishing file(s) (2, 0.8 KB)
+0044.109 (0) Table wp_aysquiz_settings: Total expected rows (via COUNT): 3
+0044.112 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0044.115 (0) Table wp_aysquiz_settings: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=830) in 0.01 seconds
+0044.122 (0) Table wp_aysquiz_settings: finishing file(s) (2, 0.4 KB)
+0044.130 (0) Table wp_aysquiz_themes: Total expected rows (via COUNT): 1
+0044.133 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0044.136 (0) Table wp_aysquiz_themes: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2119) in 0.01 seconds
+0044.143 (0) Table wp_aysquiz_themes: finishing file(s) (2, 0.6 KB)
+0044.149 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0044.154 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=534) in 0.01 seconds
+0044.159 (0) Table wp_e_events: finishing file(s) (2, 0.4 KB)
+0044.170 (0) Table wp_e_submissions: Total expected rows (via COUNT): 0
+0044.173 (0) Table wp_e_submissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2245) in 0.01 seconds
+0044.180 (0) Table wp_e_submissions: finishing file(s) (2, 0.7 KB)
+0044.189 (0) Table wp_e_submissions_actions_log: Total expected rows (via COUNT): 0
+0044.200 (0) Table wp_e_submissions_actions_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1244) in 0.01 seconds
+0044.206 (0) Table wp_e_submissions_actions_log: finishing file(s) (2, 0.5 KB)
+0044.218 (0) Table wp_e_submissions_values: Total expected rows (via COUNT): 0
+0044.219 (0) Table wp_e_submissions_values: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=723) in 0.01 seconds
+0044.226 (0) Table wp_e_submissions_values: finishing file(s) (2, 0.4 KB)
+0044.236 (0) Table wp_wp_phpmyadmin_extension__errors_log: Total expected rows (via COUNT): 0
+0044.239 (0) Table wp_wp_phpmyadmin_extension__errors_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=810) in 0.01 seconds
+0044.247 (0) Table wp_wp_phpmyadmin_extension__errors_log: finishing file(s) (2, 0.4 KB)
+0044.255 (0) Table wp_wpfm_backup: Total expected rows (via COUNT): 0
+0044.259 (0) Table wp_wpfm_backup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=528) in 0.00 seconds
+0044.264 (0) Table wp_wpfm_backup: finishing file(s) (2, 0.3 KB)
+0044.273 (0) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 15
+0044.276 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0044.280 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 15): 15 (uncompressed bytes in this segment=1794) in 0.01 seconds
+0044.287 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.6 KB)
+0044.297 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_options.table.tmpr36333.gz (1/32/fopen): adding to final database dump
+0044.304 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_options.table.gz (2/32/fopen): adding to final database dump
+0044.306 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_users.table.tmpr5.gz (3/32/fopen): adding to final database dump
+0044.308 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_users.table.gz (4/32/fopen): adding to final database dump
+0044.310 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_usermeta.table.tmpr81.gz (5/32/fopen): adding to final database dump
+0044.311 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_usermeta.table.gz (6/32/fopen): adding to final database dump
+0044.314 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_actionscheduler_actions.table.tmpr120.gz (7/32/fopen): adding to final database dump
+0044.315 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_actionscheduler_actions.table.gz (8/32/fopen): adding to final database dump
+0044.316 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/32/fopen): adding to final database dump
+0044.318 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_actionscheduler_claims.table.gz (10/32/fopen): adding to final database dump
+0044.319 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_actionscheduler_groups.table.tmpr3.gz (11/32/fopen): adding to final database dump
+0044.322 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_actionscheduler_groups.table.gz (12/32/fopen): adding to final database dump
+0044.323 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_actionscheduler_logs.table.tmpr134.gz (13/32/fopen): adding to final database dump
+0044.326 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_actionscheduler_logs.table.gz (14/32/fopen): adding to final database dump
+0044.327 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_commentmeta.table.tmpr0.gz (15/32/fopen): adding to final database dump
+0044.328 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_commentmeta.table.gz (16/32/fopen): adding to final database dump
+0044.330 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_comments.table.tmpr2.gz (17/32/fopen): adding to final database dump
+0044.332 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_comments.table.gz (18/32/fopen): adding to final database dump
+0044.334 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_links.table.tmpr0.gz (19/32/fopen): adding to final database dump
+0044.335 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_links.table.gz (20/32/fopen): adding to final database dump
+0044.336 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_postmeta.table.tmpr6292.gz (21/32/fopen): adding to final database dump
+0044.351 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_postmeta.table.gz (22/32/fopen): adding to final database dump
+0044.354 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_posts.table.tmpr1128.gz (23/32/fopen): adding to final database dump
+0044.356 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_posts.table.gz (24/32/fopen): adding to final database dump
+0044.359 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_term_relationships.table.tmpr100001.gz (25/32/fopen): adding to final database dump
+0044.360 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_term_relationships.table.gz (26/32/fopen): adding to final database dump
+0044.362 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_term_taxonomy.table.tmpr12.gz (27/32/fopen): adding to final database dump
+0044.363 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_term_taxonomy.table.gz (28/32/fopen): adding to final database dump
+0044.364 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_termmeta.table.tmpr6.gz (29/32/fopen): adding to final database dump
+0044.366 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_termmeta.table.gz (30/32/fopen): adding to final database dump
+0044.367 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_terms.table.tmpr12.gz (31/32/fopen): adding to final database dump
+0044.369 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_terms.table.gz (32/32/fopen): adding to final database dump
+0044.370 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_aysquiz_answers.table.tmpr42.gz (33/32/fopen): adding to final database dump
+0044.371 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_aysquiz_answers.table.gz (34/32/fopen): adding to final database dump
+0044.373 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_aysquiz_categories.table.tmpr2.gz (35/32/fopen): adding to final database dump
+0044.374 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_aysquiz_categories.table.gz (36/32/fopen): adding to final database dump
+0044.375 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_aysquiz_questions.table.tmpr16.gz (37/32/fopen): adding to final database dump
+0044.378 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_aysquiz_questions.table.gz (38/32/fopen): adding to final database dump
+0044.378 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_aysquiz_quizcategories.table.tmpr2.gz (39/32/fopen): adding to final database dump
+0044.379 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_aysquiz_quizcategories.table.gz (40/32/fopen): adding to final database dump
+0044.382 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_aysquiz_quizes.table.tmpr3.gz (41/32/fopen): adding to final database dump
+0044.383 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_aysquiz_quizes.table.gz (42/32/fopen): adding to final database dump
+0044.384 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_aysquiz_rates.table.tmpr0.gz (43/32/fopen): adding to final database dump
+0044.386 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_aysquiz_rates.table.gz (44/32/fopen): adding to final database dump
+0044.387 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_aysquiz_reports.table.tmpr34.gz (45/32/fopen): adding to final database dump
+0044.389 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_aysquiz_reports.table.gz (46/32/fopen): adding to final database dump
+0044.390 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_aysquiz_settings.table.tmpr4.gz (47/32/fopen): adding to final database dump
+0044.391 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_aysquiz_settings.table.gz (48/32/fopen): adding to final database dump
+0044.393 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_aysquiz_themes.table.tmpr2.gz (49/32/fopen): adding to final database dump
+0044.394 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_aysquiz_themes.table.gz (50/32/fopen): adding to final database dump
+0044.395 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_e_events.table.tmpr0.gz (51/32/fopen): adding to final database dump
+0044.398 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_e_events.table.gz (52/32/fopen): adding to final database dump
+0044.398 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_e_submissions.table.tmpr0.gz (53/32/fopen): adding to final database dump
+0044.399 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_e_submissions.table.gz (54/32/fopen): adding to final database dump
+0044.402 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_e_submissions_actions_log.table.tmpr0.gz (55/32/fopen): adding to final database dump
+0044.403 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_e_submissions_actions_log.table.gz (56/32/fopen): adding to final database dump
+0044.404 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_e_submissions_values.table.tmpr0.gz (57/32/fopen): adding to final database dump
+0044.406 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_e_submissions_values.table.gz (58/32/fopen): adding to final database dump
+0044.407 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_wp_phpmyadmin_extension__errors_log.table.tmpr0.gz (59/32/fopen): adding to final database dump
+0044.409 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_wp_phpmyadmin_extension__errors_log.table.gz (60/32/fopen): adding to final database dump
+0044.410 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_wpfm_backup.table.tmpr0.gz (61/32/fopen): adding to final database dump
+0044.411 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_wpfm_backup.table.gz (62/32/fopen): adding to final database dump
+0044.413 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_wpforms_tasks_meta.table.tmpr16.gz (63/32/fopen): adding to final database dump
+0044.414 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db-table-wp_wpforms_tasks_meta.table.gz (64/32/fopen): adding to final database dump
+0044.440 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db.gz: finished writing out complete database file (1847.8 KB)
+0044.472 (0) Total database tables backed up: 32 (backup_2022-05-28-0606_water_grandpa_b70bee97548f-db.gz, size: 1892239, sha1: 8d1d8678dd8dc9100ab86c8ee74d5818e4d77732, sha256: 66286c21eefbda0394b6e77b5527debe316faa4ac3c5f930345f6a616da996bc)
+0044.481 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0044.483 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0044.485 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0044.486 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-others.zip: others: This file has not yet been successfully uploaded: will queue
+0044.487 (0) backup_2022-05-28-0606_water_grandpa_b70bee97548f-db.gz: db: This file has not yet been successfully uploaded: will queue
+0044.489 (0) Saving backup history. Total backup size: 180.8 MB
+0044.492 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0044.497 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0044.498 (0) No remote despatch: user chose no remote backup service
+0044.500 (0) Recording as successfully uploaded: backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip
+0044.504 (0) Deleting zip manifest (backup_2022-05-28-0606_water_grandpa_b70bee97548f-plugins.zip.list.tmp)
+0044.506 (0) Recording as successfully uploaded: backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip
+0044.510 (0) Deleting zip manifest (backup_2022-05-28-0606_water_grandpa_b70bee97548f-themes.zip.list.tmp)
+0044.511 (0) Recording as successfully uploaded: backup_2022-05-28-0606_water_grandpa_b70bee97548f-uploads.zip
+0044.514 (0) Deleting zip manifest (backup_2022-05-28-0606_water_grandpa_b70bee97548f-uploads.zip.list.tmp)
+0044.515 (0) Recording as successfully uploaded: backup_2022-05-28-0606_water_grandpa_b70bee97548f-others.zip
+0044.519 (0) Deleting zip manifest (backup_2022-05-28-0606_water_grandpa_b70bee97548f-others.zip.list.tmp)
+0044.519 (0) Recording as successfully uploaded: backup_2022-05-28-0606_water_grandpa_b70bee97548f-db.gz
+0044.526 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0044.527 (0) Number of backup sets in history: 3; groups (db): 1
+0044.530 (0) Examining (for databases) backup set with group_id=0, nonce=b70bee97548f, datestamp=1653718003 (May 28 2022 06:06:43)
+0044.531 (0) This backup set is the backup set just made, so will not be deleted.
+0044.531 (0) Examining (for databases) backup set with group_id=0, nonce=10af5802a306, datestamp=1649669028 (Apr 11 2022 09:23:48)
+0044.531 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0044.534 (0) Examining (for databases) backup set with group_id=0, nonce=084852639b7d, datestamp=1649336791 (Apr 07 2022 13:06:31)
+0044.534 (0) 1649336791: db: this set includes a database (backup_2022-04-07-1306_water_grandpa_084852639b7d-db.gz); db count is now 2
+0044.534 (0) 1649336791: db: over retain limit (2); will delete this database
+0044.534 (0) Delete file: backup_2022-04-07-1306_water_grandpa_084852639b7d-db.gz, service=none
+0044.534 (0) Deleting local copy (backup_2022-04-07-1306_water_grandpa_084852639b7d-db.gz)
+0044.539 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0044.540 (0) Number of backup sets in history: 3; groups (files): 1
+0044.543 (0) Examining (for files) backup set with nonce=b70bee97548f, datestamp=1653718003 (May 28 2022 06:06:43)
+0044.543 (0) This backup set is the backup set just made, so will not be deleted.
+0044.543 (0) This backup set is the backup set just made, so will not be deleted.
+0044.543 (0) This backup set is the backup set just made, so will not be deleted.
+0044.544 (0) This backup set is the backup set just made, so will not be deleted.
+0044.544 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0044.545 (0) Examining (for files) backup set with nonce=10af5802a306, datestamp=1649669028 (Apr 11 2022 09:23:48)
+0044.545 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0044.545 (0) Examining (for files) backup set with nonce=084852639b7d, datestamp=1649336791 (Apr 07 2022 13:06:31)
+0044.545 (0) plugins: over retain limit (2); will delete this file entity
+0044.545 (0) themes: over retain limit (2); will delete this file entity
+0044.546 (0) uploads: over retain limit (2); will delete this file entity
+0044.546 (0) others: over retain limit (2); will delete this file entity
+0044.546 (0) Delete file: backup_2022-04-07-1306_water_grandpa_084852639b7d-plugins.zip, service=none
+0044.546 (0) Deleting local copy (backup_2022-04-07-1306_water_grandpa_084852639b7d-plugins.zip)
+0044.548 (0) Delete file: backup_2022-04-07-1306_water_grandpa_084852639b7d-themes.zip, service=none
+0044.550 (0) Deleting local copy (backup_2022-04-07-1306_water_grandpa_084852639b7d-themes.zip)
+0044.552 (0) Delete file: backup_2022-04-07-1306_water_grandpa_084852639b7d-uploads.zip, service=none
+0044.554 (0) Deleting local copy (backup_2022-04-07-1306_water_grandpa_084852639b7d-uploads.zip)
+0044.555 (0) Delete file: backup_2022-04-07-1306_water_grandpa_084852639b7d-others.zip, service=none
+0044.557 (0) Deleting local copy (backup_2022-04-07-1306_water_grandpa_084852639b7d-others.zip)
+0044.559 (0) This backup set is now empty; will remove from history
+0044.562 (0) Corresponding log file (log.084852639b7d.txt) not found - must have already been deleted
+0044.563 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0044.567 (0) Resume backup (b70bee97548f, 0): finish run
+0044.574 (0) Decremented the semaphore (fd) by 1
+0044.579 (0) Semaphore (fd) unlocked
+0044.582 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0044.588 (0) The backup apparently succeeded and is now complete
+0044.591 (0) No email will/can be sent - the user has not configured an email address.
+0044.593 (0) 备份显然是成功的，现在已经完成了。
